@@ -51,6 +51,7 @@ Date Category Amount
 You can delete all expenses of a specific date:
 
 Enter date to delete expenses (YYYY-MM-DD): 2024-03-23 
+
 Expenses on 2024-03-23 deleted.
 
 ### **5️⃣ Deleting All Expenses**
