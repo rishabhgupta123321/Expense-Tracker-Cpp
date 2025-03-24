@@ -105,11 +105,17 @@ Date        Category       Amount
 
 
 🛠️ Technologies Used
+
 • C++
+
 • File Handling (fstream)
+
 • Vectors (vector)
+
 • Formatted Output (iomanip)
 
 👨‍💻 Author
+
 • Name: Rishabh Gupta
+
 • GitHub: rishabhgupta123321
