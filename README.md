@@ -76,7 +76,9 @@ To quit the program, select `5`.
 3. Follow the on-screen menu to track your expenses.
 
 📌 Example Input/Output
+
 Input:
+
 1
 2024-03-24
 Food
@@ -92,9 +94,13 @@ Transport
 Output:
 
 --- Expense List ---
+
 Date        Category       Amount
+
 ----------------------------------
+
 2024-03-24  Food          $15
+
 2024-03-23  Transport     $8
 
 
