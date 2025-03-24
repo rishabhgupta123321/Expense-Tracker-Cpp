@@ -40,6 +40,7 @@ This data is saved in `Expenses.txt`.
 If expenses exist, they will be displayed in a table:
 
 --- Expense List --- 
+
 Date Category Amount
 
 2024-03-24 Food $15 
@@ -49,7 +50,8 @@ Date Category Amount
 ### **4️⃣ Deleting Expenses by Date**
 You can delete all expenses of a specific date:
 
-Enter date to delete expenses (YYYY-MM-DD): 2024-03-23 Expenses on 2024-03-23 deleted.
+Enter date to delete expenses (YYYY-MM-DD): 2024-03-23 
+Expenses on 2024-03-23 deleted.
 
 ### **5️⃣ Deleting All Expenses**
 If you want to delete all stored expenses:
