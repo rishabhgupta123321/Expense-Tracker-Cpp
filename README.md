@@ -27,9 +27,13 @@ Expense Tracker
 You will be prompted to enter the **date**, **category**, and **amount** of the expense:
 
 Enter date (YYYY-MM-DD): 2024-03-24 
+
 Enter category (Food, Transport, etc.): Food 
-Enter amount: 15 
+
+Enter amount: 15
+
 Expense added successfully!
+
 This data is saved in `Expenses.txt`.
 
 ### **3️⃣ Viewing Expenses**
@@ -37,7 +41,9 @@ If expenses exist, they will be displayed in a table:
 
 --- Expense List --- 
 Date Category Amount
+
 2024-03-24 Food $15 
+
 2024-03-23 Transport $8
 
 ### **4️⃣ Deleting Expenses by Date**
