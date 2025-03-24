@@ -1,4 +1,4 @@
-'''# Expense Tracker in C++
+# Expense Tracker in C++
 
 ## 📌 Overview
 This is a simple **Expense Tracker** program written in **C++**. It allows users to:
@@ -14,7 +14,8 @@ The program stores expenses in a file called `Expenses.txt`, making the data per
 ## 🛠️ How It Works
 ### **1️⃣ Menu Options**
 When you run the program, you will see a menu like this:
-Expense Tracker'''
+
+Expense Tracker
 
 1. Add Expense
 2. View Expenses
@@ -90,11 +91,8 @@ Date        Category       Amount
 
 🛠️ Technologies Used
 • C++
-
 • File Handling (fstream)
-
 • Vectors (vector)
-
 • Formatted Output (iomanip)
 
 👨‍💻 Author
