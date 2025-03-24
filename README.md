@@ -104,18 +104,14 @@ Date        Category       Amount
 2024-03-23  Transport     $8
 
 
+
 🛠️ Technologies Used
-
 • C++
-
 • File Handling (fstream)
-
 • Vectors (vector)
-
 • Formatted Output (iomanip)
 
+
 👨‍💻 Author
-
 • Name: Rishabh Gupta
-
 • GitHub: rishabhgupta123321
